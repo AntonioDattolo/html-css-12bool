@@ -1,0 +1,13 @@
+.effect{
+    background-color: blue;
+    padding: 1rem;
+    border: 1px solid white;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.effect-2{
+    background-color: green;
+    padding: 1rem;
+    border: 1px solid blue;
+}
